@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/jaraco/openpack/commit/0ac21d13f63af383b50677da7ac32481259aae19",
       "git:hexsha": "0ac21d13f63af383b50677da7ac32481259aae19",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-20T11:03:18.752955+00:00"
     },
     {
       "@id": "https://repolex.ai/r/jaraco/openpack/commit/71101cb2805ecd40f57cb61ccd234f9ca6a1575b",
