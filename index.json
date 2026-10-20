@@ -1,0 +1,11 @@
+{
+  "org": "jaraco",
+  "repo": "openpack",
+  "versions": [
+    {
+      "commit": "0ac21d13f63af383b50677da7ac32481259aae19",
+      "tag": "",
+      "parsed_at": "2026-10-20T11:03:18.753457+00:00"
+    }
+  ]
+}
